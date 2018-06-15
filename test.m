@@ -1,2 +1,2 @@
-fprintf('Hola mundo\n')
-fprintf('V3')
+hola();
+fprintf('New revolution')
