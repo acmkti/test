@@ -1,3 +1,3 @@
-funtion revolution()
+function revolution()
 fprintf('New revolution')
 end
